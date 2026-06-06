@@ -1,4 +1,53 @@
 {
-  "version": 1,
-  "testMessage": "Привет! Связь с GitHub Pages успешно установлена!"
+    "Version": 1,
+    "Categories": [
+        {
+            "<Name>k__BackingField": "Новая Категория",
+            "<IsVisible>k__BackingField": true,
+            "<Placement>k__BackingField": 0,
+            "<Color>k__BackingField": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            }
+        },
+        {
+            "<Name>k__BackingField": "Новая Категория",
+            "<IsVisible>k__BackingField": true,
+            "<Placement>k__BackingField": 1,
+            "<Color>k__BackingField": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            }
+        }
+    ],
+    "Cards": [
+        {
+            "<Name>k__BackingField": "New Card",
+            "<IsVisible>k__BackingField": true,
+            "<Placement>k__BackingField": 0,
+            "<SpriteName>k__BackingField": "c4b29f3bb8054f6af634291fdf5d419fb92f9cbf450c3443e76e1740f2ad04ef.png",
+            "<CategoryName>k__BackingField": "Тестовая",
+            "<SearchTags>k__BackingField": []
+        },
+        {
+            "<Name>k__BackingField": "New Card",
+            "<IsVisible>k__BackingField": true,
+            "<Placement>k__BackingField": 0,
+            "<SpriteName>k__BackingField": "456dfccf2b17b765171ceaaa065fd40f55c6e09208fc756b46d1042ed2d73061.png",
+            "<CategoryName>k__BackingField": "Тестовая",
+            "<SearchTags>k__BackingField": []
+        },
+        {
+            "<Name>k__BackingField": "New Card",
+            "<IsVisible>k__BackingField": true,
+            "<Placement>k__BackingField": 0,
+            "<SpriteName>k__BackingField": "a70ed67bd90c57bed434d89ff6ca1e1288de3a853460a21bd206b72b6cd95d08.png",
+            "<CategoryName>k__BackingField": "Игрушки",
+            "<SearchTags>k__BackingField": []
+        }
+    ]
 }
